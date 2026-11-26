@@ -179,11 +179,3 @@ Screenshot mencakup hero, About, roster, satu hero terpilih, tabel statistik, me
 ![Form ulasan](screenshot/index-review.jpg)
 
 ![Halaman profil](screenshot/profile-hero.jpg)
-
-## Catatan Teknis
-
-Seluruh font disimpan lokal di `assets/fonts/`, yaitu VALVEOracle untuk judul dan Jost untuk teks antarmuka, sehingga tidak ada ketergantungan ke Google Fonts. Library animasi juga lokal, jadi project hasil ekstrak ZIP bisa dibuka langsung lewat `file://` tanpa jaringan.
-
-## Author
-
-Muhammad Kevin, peserta Frontend Basic KSM Veterantech UPNVJ 2026.
